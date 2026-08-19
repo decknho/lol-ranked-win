@@ -36,7 +36,8 @@ O projeto será desenvolvido seguindo etapas de um fluxo de análise de dados:
 5. **Preparação para modelagem**
 6. **Aplicação de modelos**
 7. **Avaliação dos resultados**
-8. **Conclusões**
+8. **Análise dos erros**
+9. **Conclusões**
 
 ## 🚀 Resultado esperado
 
